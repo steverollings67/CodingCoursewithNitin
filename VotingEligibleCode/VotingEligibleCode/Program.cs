@@ -6,23 +6,25 @@ namespace VotingEligibleCode
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("What's your name?");
-            string userName = Console.ReadLine();
-            Console.WriteLine("Enter your age?");
-            string age = Console.ReadLine();
-            int age2 = Int32.Parse(age);
-            if (age2 >= 18)
+           Console.WriteLine("What's your name?");
+           string userName = Console.ReadLine();
+           Console.WriteLine("Enter your age?");
+           int age
+           int.TryParse(Console.ReadLine(), out age);
+           if (age2 >= 18)
             {
-                Console.WriteLine("Great News! You can vote!");
+               Console.WriteLine("Great news " + userName + "! You can vote!");
             }
-            else if (age2 <= 17)
+           else if (age2 <= 17)
             {
-                Console.WriteLine("Sorry. You're too young to vote");
+               Console.WriteLine("Sorry " + userName + ". You're too young to vote.");
             }
-            else
+           else
             {
-                Console.WriteLine("Invalid Entry");
+               Console.WriteLine("Invalid Entry");
             }
+
+            
         }
     }
 }
