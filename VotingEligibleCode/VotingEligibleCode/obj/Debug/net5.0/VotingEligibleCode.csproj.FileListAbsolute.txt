@@ -1,0 +1,16 @@
+C:\Steven's Coding Course\VotingEligibleCode\VotingEligibleCode\bin\Debug\net5.0\VotingEligibleCode.exe
+C:\Steven's Coding Course\VotingEligibleCode\VotingEligibleCode\bin\Debug\net5.0\VotingEligibleCode.deps.json
+C:\Steven's Coding Course\VotingEligibleCode\VotingEligibleCode\bin\Debug\net5.0\VotingEligibleCode.runtimeconfig.json
+C:\Steven's Coding Course\VotingEligibleCode\VotingEligibleCode\bin\Debug\net5.0\VotingEligibleCode.runtimeconfig.dev.json
+C:\Steven's Coding Course\VotingEligibleCode\VotingEligibleCode\bin\Debug\net5.0\VotingEligibleCode.dll
+C:\Steven's Coding Course\VotingEligibleCode\VotingEligibleCode\bin\Debug\net5.0\ref\VotingEligibleCode.dll
+C:\Steven's Coding Course\VotingEligibleCode\VotingEligibleCode\bin\Debug\net5.0\VotingEligibleCode.pdb
+C:\Steven's Coding Course\VotingEligibleCode\VotingEligibleCode\obj\Debug\net5.0\VotingEligibleCode.csproj.AssemblyReference.cache
+C:\Steven's Coding Course\VotingEligibleCode\VotingEligibleCode\obj\Debug\net5.0\VotingEligibleCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Steven's Coding Course\VotingEligibleCode\VotingEligibleCode\obj\Debug\net5.0\VotingEligibleCode.AssemblyInfoInputs.cache
+C:\Steven's Coding Course\VotingEligibleCode\VotingEligibleCode\obj\Debug\net5.0\VotingEligibleCode.AssemblyInfo.cs
+C:\Steven's Coding Course\VotingEligibleCode\VotingEligibleCode\obj\Debug\net5.0\VotingEligibleCode.csproj.CoreCompileInputs.cache
+C:\Steven's Coding Course\VotingEligibleCode\VotingEligibleCode\obj\Debug\net5.0\VotingEligibleCode.dll
+C:\Steven's Coding Course\VotingEligibleCode\VotingEligibleCode\obj\Debug\net5.0\ref\VotingEligibleCode.dll
+C:\Steven's Coding Course\VotingEligibleCode\VotingEligibleCode\obj\Debug\net5.0\VotingEligibleCode.pdb
+C:\Steven's Coding Course\VotingEligibleCode\VotingEligibleCode\obj\Debug\net5.0\VotingEligibleCode.genruntimeconfig.cache
