@@ -1,0 +1,16 @@
+C:\Steven's Coding Course\SwapTwoNumbersCode\SwapTwoNumbersCode\bin\Debug\net5.0\SwapTwoNumbersCode.exe
+C:\Steven's Coding Course\SwapTwoNumbersCode\SwapTwoNumbersCode\bin\Debug\net5.0\SwapTwoNumbersCode.deps.json
+C:\Steven's Coding Course\SwapTwoNumbersCode\SwapTwoNumbersCode\bin\Debug\net5.0\SwapTwoNumbersCode.runtimeconfig.json
+C:\Steven's Coding Course\SwapTwoNumbersCode\SwapTwoNumbersCode\bin\Debug\net5.0\SwapTwoNumbersCode.runtimeconfig.dev.json
+C:\Steven's Coding Course\SwapTwoNumbersCode\SwapTwoNumbersCode\bin\Debug\net5.0\SwapTwoNumbersCode.dll
+C:\Steven's Coding Course\SwapTwoNumbersCode\SwapTwoNumbersCode\bin\Debug\net5.0\ref\SwapTwoNumbersCode.dll
+C:\Steven's Coding Course\SwapTwoNumbersCode\SwapTwoNumbersCode\bin\Debug\net5.0\SwapTwoNumbersCode.pdb
+C:\Steven's Coding Course\SwapTwoNumbersCode\SwapTwoNumbersCode\obj\Debug\net5.0\SwapTwoNumbersCode.csproj.AssemblyReference.cache
+C:\Steven's Coding Course\SwapTwoNumbersCode\SwapTwoNumbersCode\obj\Debug\net5.0\SwapTwoNumbersCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Steven's Coding Course\SwapTwoNumbersCode\SwapTwoNumbersCode\obj\Debug\net5.0\SwapTwoNumbersCode.AssemblyInfoInputs.cache
+C:\Steven's Coding Course\SwapTwoNumbersCode\SwapTwoNumbersCode\obj\Debug\net5.0\SwapTwoNumbersCode.AssemblyInfo.cs
+C:\Steven's Coding Course\SwapTwoNumbersCode\SwapTwoNumbersCode\obj\Debug\net5.0\SwapTwoNumbersCode.csproj.CoreCompileInputs.cache
+C:\Steven's Coding Course\SwapTwoNumbersCode\SwapTwoNumbersCode\obj\Debug\net5.0\SwapTwoNumbersCode.dll
+C:\Steven's Coding Course\SwapTwoNumbersCode\SwapTwoNumbersCode\obj\Debug\net5.0\ref\SwapTwoNumbersCode.dll
+C:\Steven's Coding Course\SwapTwoNumbersCode\SwapTwoNumbersCode\obj\Debug\net5.0\SwapTwoNumbersCode.pdb
+C:\Steven's Coding Course\SwapTwoNumbersCode\SwapTwoNumbersCode\obj\Debug\net5.0\SwapTwoNumbersCode.genruntimeconfig.cache
